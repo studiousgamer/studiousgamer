@@ -15,6 +15,9 @@ I'm Currently in 10th Standard.
 # My Stats
 [![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer/github-readme-stats)
 
+
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studiousgamer)](https://github.com/studiousgamer)
 <!--
 **studiousgamer/studiousgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

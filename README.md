@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ## I am Natya Vidhan Biswas AKA Studious Gamer (SG)
 I am from Delhi, India.
 I Like Computers and Programming.

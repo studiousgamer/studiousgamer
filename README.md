@@ -8,7 +8,7 @@ I'm A Halfstack (backend) Web , Game and A Software Developer.
 I'm Currently in 10th Standard.
 
 
-## Working On Stram, My Own Social Media Platform
+## Working On Stream, My Own Social Media Platform
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=Stream)](https://github.com/studiousgamer/Stream)
 
 

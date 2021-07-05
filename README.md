@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-##I am Natya Vidhan Biswas AKA Studious Gamer (SG)
-##I am from Delhi, India
-##I Like Computers and Programming
-##I'm A Halfstack (backend) Web , Game and A Software Developer
-##I'm Currently in 10th Standard
+## I am Natya Vidhan Biswas AKA Studious Gamer (SG)
+## I am from Delhi, India
+## I Like Computers and Programming
+## I'm A Halfstack (backend) Web , Game and A Software Developer
+## I'm Currently in 10th Standard
 
 
 ## Working On Stram, My Own Social Media Platform

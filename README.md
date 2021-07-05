@@ -8,7 +8,7 @@
 ##I'm Currently in 10th Standard
 
 
-##Working On Stram, My Own Social Media Platform
+## Working On Stram, My Own Social Media Platform
 
 [![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer/github-readme-stats)
 

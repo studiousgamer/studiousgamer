@@ -10,7 +10,7 @@ I'm Currently in 10th Standard.
 
 
 # My Stats
-[![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer/github-readme-stats)
+[![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer)
 
 
 # Top Languages

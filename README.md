@@ -9,7 +9,10 @@ I'm Currently in 10th Standard.
 
 
 ## Working On Stram, My Own Social Media Platform
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=Stream)](https://github.com/studiousgamer/Stream)
 
+
+# My Stats
 [![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer/github-readme-stats)
 
 <!--

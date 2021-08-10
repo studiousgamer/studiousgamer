@@ -1,31 +1,10 @@
-## I am Natya Vidhan Biswas AKA Studious Gamer (SG)
-I am from Delhi, India.
-I Like Computers and Programming.
-I'm A Halfstack (backend) Web , Game and A Software Developer.
-I'm Currently in 10th Standard.
+<h1 align="center">Hi 👋, I'm Natya Vidhan Biswas AKA Studious Gamer (SG)</h1>
+<h2 align="center">A 15 year old developer from Delhi India<br>Halfstack (backend) Web , Game and Software Developer.</h2>
 
+<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="studiousgamer" /></a> </p>
 
-## Working On A ChatApp WebApp
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=ChatApp)](https://github.com/studiousgamer/ChatApp)
-
-
-# My Stats
-[![Studious Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiousgamer)](https://github.com/studiousgamer)
-
-
-# Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=studiousgamer)](https://github.com/studiousgamer)
-<!--
-**studiousgamer/studiousgamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-readme-stats.vercel.app/api?username=studiousgamer" alt="studiousgamer" /></a> </p>
+<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=studiousgamer" alt="studiousgamer" /></a> </p>
+<br>
+<h1 align="center">Working On A ChatApp WebApp</h1>
+<p align="center"> <a href="https://github.com/studiousgamer/ChatApp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=ChatApp&layout=compact&theme=dracula" alt="studiousgamer" /></a> </p>

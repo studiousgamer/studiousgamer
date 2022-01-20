@@ -1,3 +1,4 @@
+<img src="/banner2.png">
 <h1 align="center">Hi 👋, I'm Natya Vidhan Biswas AKA Studious Gamer (SG)</h1>
 <h2 align="center">A 15-year-old developer from Delhi India<br>Fullstack Web, Game and Software Developer.</h2>
 

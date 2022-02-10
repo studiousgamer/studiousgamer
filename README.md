@@ -27,8 +27,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=studiousgamer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/studiousgamer/studybudy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=studybudy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/studiousgamer/pew-pew">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=pew-pew&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 

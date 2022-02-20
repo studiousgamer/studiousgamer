@@ -1,6 +1,6 @@
 <img src="/banner2.png">
 
-<h1 align="center">Hi 👋, I'm Natya Vidhan Biswas AKA Studious Gmaer</h1>
+<h1 align="center">Hi, I'm Natya Vidhan Biswas AKA Studious Gmaer</h1>
 <h3 align="center">A 15-year-old Software, Web and Game Developer from India</h3>
 
 <p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="studiousgamer" /></a> </p>
@@ -36,4 +36,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyro-inc&repo=tyro-engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  <br>
 
-## Listening to: None
+
+<h2>Listening To: <a href='https://open.spotify.com/track/0upFohXrGxIIAjyaJmCkMU'>Tokyo Drift (Fast & Furious) - From "The Fast And The Furious: Tokyo Drift" Soundtrack, By Teriyaki Boyz</a></h2>

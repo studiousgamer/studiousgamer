@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W'>MONTERO (Call Me By Your Name), By Lil Nas X</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/track/3Yyj76BeYt3QIffwKpRuKL'>Arcade, By Duncan Laurence</a></h2>

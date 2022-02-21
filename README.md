@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6h5PAsRni4IRlxWr6uDPTP'>More Than You Know, By Axwell /\ Ingrosso</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7CHi4DtfK4heMlQaudCuHK'>Lose Control, By MEDUZA; Becky Hill; Goodboys</a></h2>

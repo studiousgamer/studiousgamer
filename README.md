@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae'>Bars No Jutsu, By Louis Capone</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/track/7ANXxTwp6Bw5IvPinbiuCt'>Reset, By Icoso</a></h2>

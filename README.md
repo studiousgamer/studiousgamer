@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0TK2YIli7K1leLovkQiNik'>Señorita, By Shawn Mendes; Camila Cabello</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7CHi4DtfK4heMlQaudCuHK'>Lose Control, By MEDUZA; Becky Hill; Goodboys</a></h2>

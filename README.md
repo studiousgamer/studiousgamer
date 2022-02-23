@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5hH1uFTUoOnStnRGIo3Z9Z'>Space Magnet, By Rudy Raw; Tom Doolie</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3F6KtPkvekxacXJ1JoTFuR'>Three of Us, By Team Astro</a></h2>

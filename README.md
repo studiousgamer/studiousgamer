@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4saklk6nie3yiGePpBwUoc'>Dynamite, By BTS</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3Yyj76BeYt3QIffwKpRuKL'>Arcade, By Duncan Laurence</a></h2>

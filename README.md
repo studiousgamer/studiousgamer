@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4pt5fDVTg5GhEvEtlz9dKk'>I WANNA BE YOUR SLAVE, By Måneskin</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0tKcYR2II1VCQWT79i5NrW'>Thunder, By Imagine Dragons</a></h2>

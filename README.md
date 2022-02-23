@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0NnGoWb8HtdgDpVpgfyyIT'>Awakened Mind, By softy; Kaspa.</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/58XtAA3xHRlo05Fe4EhHcN'>Wondering, By Amess; Banks; Purrple Cat</a></h2>

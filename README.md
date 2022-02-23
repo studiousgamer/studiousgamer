@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1sgDyuLooyvEML4oHspNza'>Lose Somebody, By Kygo; OneRepublic</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0nbXyq5TXYPCO7pr3N8S4I'>The Box, By Roddy Ricch</a></h2>

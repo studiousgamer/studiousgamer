@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4JUbCCvzCPdHYNcHd01dBP'>notion, By S N U G</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0NnGoWb8HtdgDpVpgfyyIT'>Awakened Mind, By softy; Kaspa.</a></h2>

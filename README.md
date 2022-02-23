@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4V9aXFj2pRND09THXABfdo'>Hot Coffee, By Oatmello; Ornithology</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7v9Kx2qNjDO1ccoXHiOnnp'>Capsule, By Kainbeats</a></h2>

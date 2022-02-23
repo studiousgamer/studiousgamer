@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6h5PAsRni4IRlxWr6uDPTP'>More Than You Know, By Axwell /\ Ingrosso</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6ft4hAq6yde8jPZY2i5zLr'>Paradise (feat. Dermot Kennedy), By MEDUZA; Dermot Kennedy</a></h2>

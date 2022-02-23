@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7ytR5pFWmSjzHJIeQkgog4'>ROCKSTAR (feat. Roddy Ricch), By DaBaby; Roddy Ricch</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3H7ihDc1dqLriiWXwsc2po'>Breaking Me, By Topic; A7S</a></h2>

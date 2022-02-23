@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7p5ODYEa64znuH9a3HbyN4'>Final moments, By Amess; kokoro</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4nHnCzGCgT2tTWyPyKeJBi'>Silhouette, By DaniSogen</a></h2>

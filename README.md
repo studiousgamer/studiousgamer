@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3hl5BzWCiK3zpuInwgFC12'>Suddenly, the fire, By eugenio izzi; Kanisan</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6epWOvYxmfcqxhuRAlMooB'>Allure, By DaniSogen</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5TrUb38EZY5EElGodbbuQS'>Astro, By SCayos; frumhere; Hixon Foster</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6wjF6PUwHlsOOUWpDrie8D'>Explore, By Kayba; Lomme</a></h2>

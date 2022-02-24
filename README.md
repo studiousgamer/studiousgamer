@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3DyabKiwlcCNPqvh8LVJvv'>Fresh Snow, By Oatmello</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6bMyHp2LhPmp1XH9qBV3Xk'>Last Resort, By Ky akasha</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4JuYtPKJJk0HobzktzN4Qg'>damn!, By Jeris Johnson; Ricky Desktop</a></h2>
+<h2>Listening To: Nothing</h2>

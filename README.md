@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/03ZyPqIZXdBNNVIpM2KORq'>Brass, By Dirty Rush & Gregor Es</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3ooTKrHtMv36F8oinsfGdp'>Astral Projection, By Hallmore</a></h2>

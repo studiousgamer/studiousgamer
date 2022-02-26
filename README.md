@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0MRg2bzlVhGQTi4ecu792k'>Vardaan, By Ajey Nagar (CarryMinati); Yash Nagar (Wily Frenzy)</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6e8Ou0wiqAzIpWb2eSxll8'>Miami, By Will Smith</a></h2>

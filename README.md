@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3e2g5DCqmxTZy5Lc01mgeC'>Bad Apple!! (from Touhou) - Normal Version, By The Game Music Committee</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1edpcc9MIT4NH3ejrMUVUs'>I'm Still Standing, By Taron Egerton</a></h2>

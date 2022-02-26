@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0aU39h0Vz3F5VzbFR2kC4X'>Stay with me soft bass boost - Remix, By Lilorx</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0MRg2bzlVhGQTi4ecu792k'>Vardaan, By Ajey Nagar (CarryMinati); Yash Nagar (Wily Frenzy)</a></h2>

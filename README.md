@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5LDvAJwWczQ4DOjKIEtWZs'>Bajre Da Sitta, By Rashmeet Kaur; Deep Kalsi; Ikka</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1AKGJQIHP3dIPuhOjdxD6a'>Bitch Lasagna, By pewdiepie; Party in Backyard</a></h2>

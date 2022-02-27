@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0MRg2bzlVhGQTi4ecu792k'>Vardaan, By Ajey Nagar (CarryMinati); Yash Nagar (Wily Frenzy)</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/36xIOmGAoanZWR0kAFKRNO'>Why Can't We Be Friends, By Smash Mouth</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2qW2fhWd5YSvLrz7eGsw3G'>Lapis-Lazuli, By fox</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/5H9VMgnzuU62NYzWdJlqae'>Bars No Jutsu, By Louis Capone</a></h2>

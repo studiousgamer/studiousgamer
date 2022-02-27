@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2ldayZR6DjSQ30bAKr09T5'>Gonna Sing, By Peyruis</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/03ZyPqIZXdBNNVIpM2KORq'>Brass, By Dirty Rush & Gregor Es</a></h2>

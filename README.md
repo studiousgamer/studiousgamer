@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/78k4MYmPEtmceVdoJo7yKu'>Away, By Chiccote's Beats</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2WSZf9R3VXeeR8fWCscIDg'>Daydream, By Kayou.</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1moxB02KhgCWontBnqNia3'>Ideals, By l'Outlander; Julien Marchal</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4xFC2ONt0GDnPujIQiMhD6'>Mirror of Time, By Yasumu</a></h2>

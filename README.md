@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/59Rx7sQnBmVbHwdKqKHOrQ'>Magical Connection, By Peak Twilight; Prithvi</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6eoSl3jbzRxzKaccJvO10c'>Quiescence, By Nogymx</a></h2>

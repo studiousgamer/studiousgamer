@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3yUHxNRBMcuuqPxxYtJDeV'>snowfall, By Blurred Figures; another silent weekend</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4oSn2W0GSpYhMMAFKswa4L'>A Meditation, By Kanisan; no one's perfect</a></h2>

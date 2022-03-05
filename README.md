@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5X76wtT9kiHhwUdaloVaLD'>Hazy Illuminations, By Osaki; Gerardo Millán</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/61nE6sLp2TuKiEQouw7tX6'>Naevys, By Chau Sara</a></h2>

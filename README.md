@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6fwbKtPetM2Zm5sy4uQj2F'>Space Rain, By Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1moxB02KhgCWontBnqNia3'>Ideals, By l'Outlander; Julien Marchal</a></h2>

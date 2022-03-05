@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6GpRJKqZgbcU7yfMGaIDwM'>Hero, By l'Outlander</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0SPf2rSNhrQMwHPoGdcOwB'>Had Abbadon, By Chau Sara</a></h2>

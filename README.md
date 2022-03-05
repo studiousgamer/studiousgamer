@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7v9Kx2qNjDO1ccoXHiOnnp'>Capsule, By Kainbeats</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/70lmqeBvnQYC8SUdsb0dR6'>Mind Pool, By Dontcry; Nokiaa</a></h2>

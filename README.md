@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/628V748xeHasyjh1gVRMkc'>I Can't Do This Anymore, By Amess</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/5GP9E2PnaCaeLZU9iDdPUT'>Blue Moon, By takeo; Spencer Hunt</a></h2>

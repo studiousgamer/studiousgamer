@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/70lmqeBvnQYC8SUdsb0dR6'>Mind Pool, By Dontcry; Nokiaa</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6GpRJKqZgbcU7yfMGaIDwM'>Hero, By l'Outlander</a></h2>

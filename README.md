@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3zg7VP6IVTQuENtCKMKDKv'>Spirals, By Sling Dilly; Sleepermane</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1HxqiXTBlDUlzWBBvAt4bT'>Blank Canvas, By BluntOne; Baen Mow; Phlocalyst</a></h2>

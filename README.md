@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1s2O0TD7jnxlLRQRzTMRyI'>Secrets, By Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0a4RZs7ixjJsUwrpWZovsq'>Magic Rain, By DaniSogen</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1HxqiXTBlDUlzWBBvAt4bT'>Blank Canvas, By BluntOne; Baen Mow; Phlocalyst</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/72skQqA2iy8B8Rb7GNjTrc'>Edge of the Universe, By Purrple Cat</a></h2>

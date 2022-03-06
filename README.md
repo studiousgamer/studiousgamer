@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7qxsh3zL0mfJYoIGbLBbfz'>Alienated, By Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7mkzZzA2nJ24HRfXh7j7ns'>Favorite Band, By Hoogway; WYS</a></h2>

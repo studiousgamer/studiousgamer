@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0ygsiA94TGm1eypOxTPAl1'>Quiet Thoughts, By Bcalm; Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4TojLOxTjFc2AJD8jVQ3wP'>Echoes, By Casiio</a></h2>

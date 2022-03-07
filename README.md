@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0mTlSLFiKld97GGTZMtIeS'>On a Mission, By Team Astro</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1LauxiD9c4ylhSwgUAN0KR'>Convictions, By l'Outlander</a></h2>

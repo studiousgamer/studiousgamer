@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/25vPtLrUxkdrFHxRzhXSw6'>Willpower, By l'Outlander</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0WLnsgm71RGQLCacmdBRS4'>Blooming Dales, By Krynoze; Diiolme</a></h2>

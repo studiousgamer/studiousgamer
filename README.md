@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/61nE6sLp2TuKiEQouw7tX6'>Naevys, By Chau Sara</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3Dlw68go7fAZWv0l8EhuHU'>The Magic Unfolds, By DaniSogen</a></h2>

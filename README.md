@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7IHckA5OxvDkRTWbDAypZV'>Fig Trees, By juniorodeo; Blue Wednesday</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3I50R6EP8uSQ5BGfjy9v6c'>Aether, By BluntOne; Ky akasha</a></h2>

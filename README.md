@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1nQPMlAgZLSA3nxzIm15SS'>Forest Friends, By Laffey; softy</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2Z2UlqPUQzHob90fBjBBoy'>Painted Skies, By Nogymx</a></h2>

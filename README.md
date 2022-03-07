@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1CrMXIlcytIrSiK4dUEaJB'>Winds of Change, By Nogymx</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3gZ4c6tLqr5DgjoxwtIiW6'>Close Your Eyes, By cxlt.</a></h2>

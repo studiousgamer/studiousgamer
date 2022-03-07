@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4uY8AjyUHBxCWgXPhpUVGR'>The Path You Choose, By BVG</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6YxcQLJfN8EvoavGrbscNr'>Midnight Journey, By Kainbeats</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6xzD1OMVIyMfThBkZwYpJL'>Through the Wormhole, By Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6zWc338YXD1VRbJ1CCggib'>When We Speak, By Team Astro</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3wOplmv7FEeBSyCPMDyFe1'>Letting Go, By BVG; Trix.; møndberg</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1fBQYxEWrhTumcQKosIJWJ'>beluga, By steezy prime; tender spring</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7yuWy1VVjcOHvHQhPYOcr2'>Exhale, By No Spirit</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1vosVz4NI3YJBdrZ3cacFt'>Cope, By Kurt Stewart; Lomme</a></h2>

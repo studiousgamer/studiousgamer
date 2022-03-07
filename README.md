@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1AwXvRDkuXRmXgzxLW10lX'>Smile From A Friend, By fourwalls; farewell</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1ik1Hwjlx4LryBgTECjhLp'>Solemn, By Towerz</a></h2>

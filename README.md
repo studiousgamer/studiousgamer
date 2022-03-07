@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7iwbdXuEprl6ZaULC3TxN6'>Constellation, By softy; no one's perfect</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1vmwRpAhqOL7YvKbnSqROt'>Skipping Rocks, By Laffey</a></h2>

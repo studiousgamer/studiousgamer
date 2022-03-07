@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3L0L7zlKD0YCmswUGHZ7LC'>Bittersweet Sorrow, By Tenno</a></h2>
+<h2>Listening To: Nothing</h2>

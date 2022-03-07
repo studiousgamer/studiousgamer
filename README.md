@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5oyDUG0oVRJuiCoG08xO99'>Constant, By Towerz; Spencer Hunt</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/5wq7dQCHKEAAqCzCmSUBM0'>Reassuring Skies, By Lenny Loops; Hoffy Beats</a></h2>

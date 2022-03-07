@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2AsstmOZXoX9hEIHjevicc'>Parallel Worlds, By Osaki; Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1M0sRUG31sDDRYJ4ReJ8Yj'>Whispers of Eden, By Nogymx</a></h2>

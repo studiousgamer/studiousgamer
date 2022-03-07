@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/78k4MYmPEtmceVdoJo7yKu'>Away, By Chiccote's Beats</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1s2O0TD7jnxlLRQRzTMRyI'>Secrets, By Purrple Cat</a></h2>

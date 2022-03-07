@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3gZ4c6tLqr5DgjoxwtIiW6'>Close Your Eyes, By cxlt.</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4BOJlNZx6OFQhFEamL9XUN'>Voices of the Ancestors, By DaniSogen</a></h2>

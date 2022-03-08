@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/279NFv6oFy7RhuZzsHooN8'>Don't Stay in School, By Boyinaband</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4BrdugjCUyv5SSph7m4zBs'>Duck Tales, By Suburban Legends</a></h2>

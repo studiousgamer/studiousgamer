@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2XU0oxnq2qxCpomAAuJY8K'>Dance Monkey, By Tones And I</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1DIXPcTDzTj8ZMHt3PDt8p'>Gangsta's Paradise, By Coolio; L.V.</a></h2>

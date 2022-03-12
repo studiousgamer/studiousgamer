@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5HfTcWz00JSKWMqEcGOdWM'>Reality Diving, By Jonas Tyroller</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/44DvJTKXykzE2AMaEP3buy'>Hello AI, By Jonas Tyroller; Jason Hanes</a></h2>

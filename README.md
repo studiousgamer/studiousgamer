@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1pzYtwJw8lR02utCVZcbjb'>Final Encounter, By Jonas Tyroller</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/255dyhOCnYzBcpofO5u6V5'>Supremacy, By Jonas Tyroller</a></h2>

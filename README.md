@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6m4aHlPUtxEtO6UbgOJSR0'>Death by Nanobots, By Jonas Tyroller</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0G8WaPHSZmm9f7Og1Yxyqa'>Helpy Loves You, By Jonas Tyroller</a></h2>

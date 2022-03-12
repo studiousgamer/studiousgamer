@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7k1IaF7JDIc7Oh7Df0zHAr'>Winter Mode, By Jonas Tyroller</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/69cFjyl5PCX25H0zBp3tHW'>Artificial Joy, By Jonas Tyroller</a></h2>

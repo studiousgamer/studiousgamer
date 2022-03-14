@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5uEYRdEIh9Bo4fpjDd4Na9'>Goosebumps - Remix, By Travis Scott; HVME</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7qiZfU4dY1lWllzX7mPBI3'>Shape of You, By Ed Sheeran</a></h2>

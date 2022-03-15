@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/47zuVt77G3MKb3VIOAuOsx'>Gangsta's Paradise, By Coolio; L.V.</a></h2>
+<h2>Listening To: Nothing</h2>

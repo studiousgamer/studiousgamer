@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6kls8cSlUyHW2BUOkDJIZE'>Hate Me (with Juice WRLD), By Ellie Goulding; Juice WRLD</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/27OeeYzk6klgBh83TSvGMA'>WITHOUT YOU, By The Kid LAROI</a></h2>

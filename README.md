@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/25sgk305KZfyuqVBQIahim'>Sweet but Psycho, By Ava Max</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7CHi4DtfK4heMlQaudCuHK'>Lose Control, By MEDUZA; Becky Hill; Goodboys</a></h2>

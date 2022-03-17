@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1sgDyuLooyvEML4oHspNza'>Lose Somebody, By Kygo; OneRepublic</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0n2nEtLP3OzDdi12ziIekx'>SOS, By Avicii; Aloe Blacc</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear), By Machine Gun Kelly; blackbear</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0TK2YIli7K1leLovkQiNik'>Señorita, By Shawn Mendes; Camila Cabello</a></h2>

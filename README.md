@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5icOoE6VgqFKohjWWNp0Ac'>Here With Me, By Marshmello; CHVRCHES</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/7kDUspsoYfLkWnZR7qwHZl'>my ex's best friend (with blackbear), By Machine Gun Kelly; blackbear</a></h2>

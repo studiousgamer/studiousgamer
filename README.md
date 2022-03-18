@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7aiClxsDWFRQ0Kzk5KI5ku'>hot girl bummer, By blackbear</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6SRWhUJcD2YKahCwHavz3X'>Darkside, By Alan Walker; Au/Ra; Tomine Harket</a></h2>

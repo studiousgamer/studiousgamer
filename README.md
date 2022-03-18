@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0mjAU3yKR1QnXnHtjGJqTM'>Rescue Me, By OneRepublic</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6kls8cSlUyHW2BUOkDJIZE'>Hate Me (with Juice WRLD), By Ellie Goulding; Juice WRLD</a></h2>

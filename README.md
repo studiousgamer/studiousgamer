@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6ft4hAq6yde8jPZY2i5zLr'>Paradise (feat. Dermot Kennedy), By MEDUZA; Dermot Kennedy</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2RSHsoi04658QL5xgQVov3'>Bad Liar, By Imagine Dragons</a></h2>

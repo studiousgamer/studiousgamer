@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1sgDyuLooyvEML4oHspNza'>Lose Somebody, By Kygo; OneRepublic</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/6WrI0LAC5M1Rw2MnX2ZvEg'>Don't Start Now, By Dua Lipa</a></h2>

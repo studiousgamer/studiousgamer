@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/02wZWcqODjCTUmePQg1nWP'>fossils, By jives</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1lOe9qE0vR9zwWQAOk6CoO'>Ransom, By Lil Tecca</a></h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6fRxMU4LWwyaSSowV441IU'>Beautiful Mistakes (feat. Megan Thee Stallion), By Maroon 5; Megan Thee Stallion</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3Z8FwOEN59mRMxDCtb8N0A'>Be Kind (with Halsey), By Marshmello; Halsey</a></h2>

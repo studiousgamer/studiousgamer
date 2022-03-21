@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3e2g5DCqmxTZy5Lc01mgeC'>Bad Apple!! (from Touhou) - Normal Version, By The Game Music Committee</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2RSHsoi04658QL5xgQVov3'>Bad Liar, By Imagine Dragons</a></h2>

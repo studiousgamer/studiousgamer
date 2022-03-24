@@ -78,6 +78,9 @@ def main():
                 link = f"\n<h2>Listening To: <a href='{current_track_info['link']}'>{current_track_info['track_name']}, By {current_track_info['artists']}</a></h2>"
                 try:
                     updateRepo(link, current_track_info['track_name'])
+                except UnicodeEncodeError:
+                  link = f"\n<h2>Listening To: <a href='{current_track_info['link']}'>Song, By {current_track_info['artists']}</a></h2>"
+                  updateRepo(link, "Song")
                 except Exception as e:
                     print(e)
                     pass

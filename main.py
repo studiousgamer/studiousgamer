@@ -4,7 +4,7 @@ import os
 
 README = """<img src="/banner2.png">
 
-<h1 align="center">Hi, I'm Natya Vidhan Biswas AKA Studious Gmaer</h1>
+<h1 align="center">Hi, I'm Natya Vidhan Biswas AKA Studious Gamer</h1>
 <h3 align="center">A 15-year-old Software, Web and Game Developer from India</h3>
 
 <p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="studiousgamer" /></a> </p>

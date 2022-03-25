@@ -1,8 +1,8 @@
 <img src="/banner2.png">
 
 <h1 align="center">Hi, I'm Natya Vidhan Biswas AKA Studious Gamer</h1>
-<h3 align="center">A 15-year-old Software, Web and Game Developer from India</h3>
-
+<a href="https://github.com/studiousgamer?tab=overview&from=2019-12-01&to=2019-12-31"><h3 align="center">A 15-year-old Software, Web and Game Developer from India</h3>
+</a>
 <p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="studiousgamer" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7qxsh3zL0mfJYoIGbLBbfz'>Alienated, By Purrple Cat</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0TWslAK7L9jXdSJ5Skvwfz'>in the cold, By Towerz; edelwize; Spencer Hunt</a></h2>

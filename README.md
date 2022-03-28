@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/3SipFlNddvL0XNZRLXvdZD'>Heroes Tonight, By Janji; Johnning</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1VLRz4mIP1o8YwPgqGFqPs'>Oblivion, By Dirty Palm</a></h2>

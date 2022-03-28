@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0hTrQoqDmFnA4S1PC265e1'>Fly Away, By TheFatRat; Anjulie</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4VZH6OfxPy1nNE7KbtVKyK'>Fearless Pt. II, By Lost Sky; Chris Linton</a></h2>

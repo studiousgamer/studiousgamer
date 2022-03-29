@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/1VLRz4mIP1o8YwPgqGFqPs'>Oblivion, By Dirty Palm</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/3UEnF6y5tyHVtMzldS3svp'>Everything Black, By Unlike Pluto; Mike Taylor</a></h2>

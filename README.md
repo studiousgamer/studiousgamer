@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/02shCNmb6IvgB5jLqKjtkK'>Nevada, By Vicetone; Cozi Zuehlsdorff</a></h2>
+<h2>Listening To: Nothing</h2>

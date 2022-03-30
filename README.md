@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2goIIAg5kdzfwclJMFZM33'>Everything, By Diamond Eyes</a></h2>
+<h2>Listening To: Nothing</h2>

@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/6ww1NBmkrMqaEdWk1PsatX'>Stay, By G-Pol</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2lz3zjQ5QCVXiyOzIk02vW'>Die For You, By VALORANT; Grabbitz</a></h2>

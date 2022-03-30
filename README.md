@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/7EYv3adMrIC5mqurz7fHhD'>Superhero, By Unknown Brain; Chris Linton</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/2USlegnFJLrVLpoVfPimKB'>Thunder, By Gabry Ponte; LUM!X; Prezioso</a></h2>

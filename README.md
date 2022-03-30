@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2kE1aWe2416BnVYqPQlMzS'>Just Don't Mind, By Fox Stevenson</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/58A0GOp6jVOwvOFY8QpB1S'>Royalty - Wiguez & Alltair Remix, By Egzod; Maestro Chives; Wiguez; Alltair</a></h2>

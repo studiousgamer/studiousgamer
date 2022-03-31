@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/0fEg3weP8yuyHlcPpb8fKm'>Finally Find You, By Derivakat; Netrum</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/44MxUoeZg6FXDlHMrSbVjX'>Someone Else, By Sullivan King</a></h2>

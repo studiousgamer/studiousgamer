@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/44MxUoeZg6FXDlHMrSbVjX'>Someone Else, By Sullivan King</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/0jmeBmNDOJ0XMWxvmvxzrD'>Running To The Edge, By Arize; Veso; Doré</a></h2>

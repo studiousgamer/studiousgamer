@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/4mTLnLuHoGhA2xd595OMg1'>Shiawase - VIP, By Dion Timmer</a></h2>
+<h2>Listening To: Nothing</h2>

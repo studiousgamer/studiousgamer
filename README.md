@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/2BgagqJWYfrKPhz3f5V0Sw'>Invisible, By Julius Dreisig; Zeus X Crona</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/1FpVJ7HpZInE2GvhVE2TwT'>Legends Never Die, By League of Legends; Against The Current</a></h2>

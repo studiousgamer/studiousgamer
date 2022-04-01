@@ -37,4 +37,4 @@
 </a>  <br>
 
 
-<h2>Listening To: <a href='https://open.spotify.com/album/5PEc50zuLdBpkC9bOQTG2D'>I Remember, By inverness; Jack Newsome</a></h2>
+<h2>Listening To: <a href='https://open.spotify.com/album/4kTliHBy7w2SOMtm8qMmOW'>I'm Ready, By Jaden</a></h2>

@@ -45,28 +45,25 @@ README = """<img src="/banner2.png">
     
 def get_current_track():
     data = requests.get("https://api.lanyard.rest/v1/users/579320358063046682").json()
-    is_playing = data['data']['listening_to_spotify']
-    if is_playing:
-        current_track_info = {
+    return (
+        {
             "id": data['data']['spotify']['track_id'],
             "track_name": data['data']['spotify']['song'],
             "artists": data['data']['spotify']['artist'],
-            "link": "https://open.spotify.com/album/" + data['data']['spotify']['track_id'],
-            "is_playing": is_playing
+            "link": "https://open.spotify.com/album/"
+            + data['data']['spotify']['track_id'],
+            "is_playing": is_playing,
         }
-    else:
-        current_track_info = {
-            "is_playing": is_playing
-        }
-
-    return current_track_info
+        if (is_playing := data['data']['listening_to_spotify'])
+        else {"is_playing": is_playing}
+    )
 
 def updateRepo(link, music):
     edited = README + link
     open("README.md", 'w').write(edited)
-    os.system(f"git add README.md")
+    os.system("git add README.md")
     os.system(f'git commit -m "Listening To: {music}"')
-    os.system(f"git push origin master")
+    os.system("git push origin master")
 
 def main():
     current_track_id = None

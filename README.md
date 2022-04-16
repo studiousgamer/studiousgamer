@@ -1,4 +1,4 @@
-<img src="/banner2.png">
+<img src="banner2.png">
 
 <h1 align="center">Hi, I'm Natya Vidhan Biswas AKA Studious Gamer</h1>
 <h3 align="center">A 15-year-old Software, Web and Game Developer from India</h3>

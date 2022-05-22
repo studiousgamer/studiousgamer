@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://dev.to/studiousgamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="studiousgamer" height="30" width="40" /></a>
 <a href="https://twitter.com/gamerstudious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gamerstudious" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natya-vidhan-biswas-741310189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natya-vidhan-biswas" height="30" width="40" /></a>
@@ -19,10 +20,15 @@
 
 
 ### GitHub Stats:
+<a href="https://github.com/studiousgamer">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=studiousgamer&bg_color=1d1f21&color=ffffff&line=2bbc8a&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+</a>
+<div align="center">
 
 <a href="https://github.com/studiousgamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studiousgamer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
 <a href="https://github.com/studiousgamer">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=studiousgamer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
@@ -31,10 +37,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=ASCII-fy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/tyro-inc/tyro-engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyro-inc&repo=tyro-engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  <br>
-
-
-<h2>Listening To: Nothing</h2>
+</div>

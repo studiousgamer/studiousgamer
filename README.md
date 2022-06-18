@@ -79,7 +79,7 @@
 <a href="https://instagram.com/natyavidhan"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/natya-vidhan-biswas-741310189/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 <a href="https://reddit.com/u/studious_gamer"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&amp;logo=reddit&amp;logoColor=white" alt="Reddit"></a>
-<a href="https://twitter.com/GamerStudious"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/NatyaCodes"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white" alt="Twitter"></a>
 <a href="https://www.youtube.com/channel/UCb3rnqZcBN9kPx5--yz5A3A"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&amp;logo=YouTube&amp;logoColor=white" alt="YouTube"></a>
 </p>
 

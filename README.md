@@ -2,7 +2,7 @@
 
 <h3 align="center">A 15-year-old "python guy" from India</h3>
 
-<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy-studiousgamer.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=9" alt="studiousgamer" /></a> </p>
+<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy-studiousgamer.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=1&margin-h=15&column=9" alt="studiousgamer" /></a> </p>
 
 <h3 align="left">Technologies I Use:</h3>
 

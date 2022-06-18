@@ -2,7 +2,7 @@
 
 <h3 align="center">A 15-year-old "python guy" from India</h3>
 
-<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=7" alt="studiousgamer" /></a> </p>
+<p align="center"> <a href="https://github.com/studiousgamer/"><img src="https://github-profile-trophy.vercel.app/?username=studiousgamer&theme=darkhub&margin-w=15&margin-h=15&column=9" alt="studiousgamer" /></a> </p>
 
 <h3 align="left">Technologies I Use:</h3>
 
@@ -100,19 +100,19 @@
 <div align="center">
 
 <a href="https://github.com/studiousgamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=studiousgamer&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-studiousgamer.vercel.app/api/top-langs/?username=studiousgamer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/studiousgamer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=studiousgamer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-studiousgamer.vercel.app/api?username=studiousgamer&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="StudiousGamer's GitHub Stats" />
 </a>
 
 <a href="https://github.com/studiousgamer/ASCII-fy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=studiousgamer&repo=ASCII-fy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-studiousgamer.vercel.app/api/pin/?username=studiousgamer&repo=ASCII-fy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/tyro-inc/tyro-engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tyro-inc&repo=tyro-engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-studiousgamer.vercel.app/api/pin/?username=tyro-inc&repo=tyro-engine&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>  <br>
 </div>
 

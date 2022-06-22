@@ -87,9 +87,9 @@
 
 <p>
 <a href="https://ko-fi.com/studiousgamer"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="Ko-Fi"></a>
-<a href="https://www.patreon.com/studiousgamer"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" alt="Patreon"></a>
+<a href="https://www.patreon.com/natyacodes"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&amp;logo=patreon&amp;logoColor=white" alt="Patreon"></a>
 <a href="https://paypal.me/StudiousGamer"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&amp;logo=paypal&amp;logoColor=white" alt="PayPal"></a>
-<a href="https://www.buymeacoffee.com/natyacodes"><img src="https://img.shields.io/badge/BuyMeACoffee-fedc00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="PayPal"></a>
+<a href="https://www.buymeacoffee.com/natyacodes"><img src="https://img.shields.io/badge/BuyMeACoffee-fedc00?style=for-the-badge&amp;logo=buymeacoffee&amp;logoColor=black" alt="buymeacoffee"></a>
 </p>
 
 
